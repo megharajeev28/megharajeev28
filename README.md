@@ -1,105 +1,144 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hi, I'm Megha Rajeev
-</h1>
+<!-- ======================= HEADER ======================= -->
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,25,30&text=Megha%20Rajeev&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer%20•%20Machine%20Learning%20•%20Generative%20AI&descAlignY=58"/>
+</p>
 
 <h3 align="center">
-AI Engineering Student • Building Intelligent Systems • Open Source Contributor
+Building Intelligent Systems that Create Real-World Impact
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Engineer;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLMs+%7C+RAG;Computer+Vision+%7C+NLP;Building+AI+for+Real-World+Impact;Always+Learning+Something+New+🚀"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Generative+AI+%7C+LLMs+%7C+RAG;Computer+Vision+%7C+NLP;AI+Agents+%7C+Multimodal+AI;Open+Source+Contributor;Always+Learning.+Always+Building."/>
+
 </p>
 
 <p align="center">
+
 <a href="https://github.com/megharajeev28">
-<img src="https://komarev.com/ghpvc/?username=megharajeev28&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/megharajeev28?style=for-the-badge&logo=github"/>
 </a>
 
-<img src="https://img.shields.io/github/followers/megharajeev28?style=for-the-badge&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=megharajeev28&style=for-the-badge&color=blue"/>
 
-<img src="https://img.shields.io/github/stars/megharajeev28?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-# 💫 About Me
+<table>
+<tr>
 
-```python
-class MeghaRajeev:
+<td width="58%">
 
-    def __init__(self):
-        self.education = "Integrated M.Tech in Artificial Intelligence"
-        self.interests = [
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "Natural Language Processing",
-            "Generative AI",
-            "Large Language Models",
-            "Retrieval-Augmented Generation"
-        ]
+# 👋 About Me
 
-        self.currently_learning = [
-            "Agentic AI",
-            "Multimodal AI",
-            "AI System Design",
-            "MLOps"
-        ]
+I'm an **AI Engineering student** passionate about building intelligent systems that bridge cutting-edge research with practical applications.
 
-    def motto(self):
-        return "Building AI that solves real-world problems."
-```
+My interests lie in developing scalable AI solutions using modern machine learning techniques, Large Language Models, Retrieval-Augmented Generation, and Computer Vision.
+
+I enjoy solving challenging engineering problems, contributing to open-source projects, and continuously learning emerging technologies that shape the future of Artificial Intelligence.
+
+### Currently
+
+- 🤖 Building AI-powered applications
+- 🧠 Exploring Agentic AI & LLM Systems
+- 📚 Learning AI System Design
+- 🚀 Preparing for Software & AI Engineering Roles
+
+</td>
+
+
+</tr>
+</table>
 
 ---
 
 # ⚡ Tech Stack
 
-<p align="center">
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript"/>
+
+</p>
+
+---
+
+### Artificial Intelligence & Machine Learning
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
-<img src="https://skillicons.dev/icons?i=react,fastapi,mongodb,postgresql"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+`Scikit-Learn` • `Hugging Face` • `LangChain` • `OpenCV`
+
+`NumPy` • `Pandas` • `Matplotlib`
+
+---
+
+### Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+### Frontend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite"/>
+
+</p>
+
+---
+
+### Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+
+</p>
+
+---
+
+### Developer Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=megharajeev28&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=megharajeev28&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=megharajeev28&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=megharajeev28&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=megharajeev28&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megharajeev28&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
@@ -111,58 +150,80 @@ class MeghaRajeev:
 
 ---
 
-# 🏆 Achievements
+# 🎯 Research Interests
 
-🥇 Amazon ML Summer School 2026 — Final Round
-
-🚀 Flipkart Gridlock Hackathon — Top 5%
-
-💙 Google Girl Hackathon
-
-🌍 Open Source Contributor (DSOC & ASOC)
-
-🤖 Infosys Springboard AI Virtual Intern
-
----
-
-# 🌱 Currently Exploring
-
-✨ Agentic AI
-
-🧠 Large Language Models
-
-🔍 Retrieval-Augmented Generation
-
-👁️ Computer Vision
-
-🎙️ Multimodal AI
-
-☁️ Cloud & MLOps
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Agentic Workflows
+- Computer Vision
+- Natural Language Processing
+- Multimodal AI
+- AI System Design
+- MLOps & Cloud AI
 
 ---
 
-# 📫 Connect With Me
+# 🌱 Current Focus
+
+```text
+▸ Production-Ready AI Applications
+
+▸ Intelligent AI Agents
+
+▸ LLM Evaluation & RAG
+
+▸ Scalable Backend Systems
+
+▸ Open Source Contributions
+
+▸ Competitive Programming
+```
+
+---
+
+# 🏅 Highlights
+
+- Amazon ML Summer School 2026 — Final Round
+- Flipkart Gridlock Hackathon — Top 5%
+- Google Girl Hackathon Participant
+- Open Source Contributor (DSOC & ASOC)
+- Infosys Springboard AI Virtual Intern
+
+---
+
+# 🌐 Connect
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/megha-rajeev-bb5559277/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:megharajeev.reshmi@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="[https://skillicons.dev/icons?i=vercel](https://megha-portfolio-v2-pxor7jdnq-megharajeev28s-projects.vercel.app/)"/>
+<a href="https://megha-portfolio-v2-pxor7jdnq-megharajeev28s-projects.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://leetcode.com/u/user8195bK/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
 
 ---
 
+# 💭 Developer Philosophy
+
+> *"I believe meaningful technology is built through curiosity, continuous learning, and a commitment to solving real-world problems with thoughtful engineering."*
+
+---
+
 <p align="center">
 
-### ⭐ "Learning continuously. Building responsibly. Innovating with AI."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </p>
